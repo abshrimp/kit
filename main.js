@@ -153,7 +153,7 @@ function d() {
 
 function e() {
     let data = {
-        title: "フランス語の<br>クラス？を選択してください<br>（勝手に振られる？？）<br>（曜日時間はほぼ同じ）",
+        title: "フランス語の<br>クラス？を選択してください",
         q:
             [
                 ["b", f, 59],
@@ -166,7 +166,7 @@ function e() {
 
 function f() {
     let data = {
-        title: "Interactive English A<br>のクラス？を選択してください<br>（勝手に振られる？？）<br>（曜日時間はほぼ同じ）",
+        title: "Interactive English A<br>のクラス？を選択してください",
         q:
             [
                 ["p", g, 0],
